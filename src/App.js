@@ -2,6 +2,7 @@ import React from 'react';
 import { Container, Navbar, NavbarBrand } from 'reactstrap';
 import WizardLogo from './app/assets/img/logo.png';
 import './App.css';
+import WidgetCard from './features/widgets/WidgetCard';
 
 function App() {
   return (
